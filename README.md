@@ -1,4 +1,4 @@
-# Good Commit
+# my-billing-feature-lb
 
 Codefresh GitOps Certification examples - Level 3 - GitOps Enterprise
 
