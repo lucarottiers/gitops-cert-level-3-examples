@@ -1,4 +1,4 @@
-# Good Commit
+# Bad Commit
 
 Codefresh GitOps Certification examples - Level 3 - GitOps Enterprise
 
